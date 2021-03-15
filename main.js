@@ -46,7 +46,6 @@ function changeNextThreeToValue(start1, arr1, value1) {
       arr1[i] = value1;
     }
   }
-  console.log(arr1);
 }
 
 
